@@ -2,7 +2,7 @@
 - 👀 I’m interested in exploring 
 - 🌱 I’m currently learning web development
 - 📫 Reach me through kartikgorde04@gmail.com
-- 😄 Pronouns: Car/tik
+- 😄 Pronouns: he/him (kahr-tihk)
 
 
 <!---
