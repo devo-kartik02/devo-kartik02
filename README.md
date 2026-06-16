@@ -1,13 +1,12 @@
 # Hi, I'm Kartik Gorde  
 
-I am an aspiring software developer with a strong foundation in web development, programming, and data-driven technologies.  
-Currently, I am expanding my skills in **Artificial Intelligence (AI)** and **Machine Learning (ML)** to build intelligent and impactful solutions.  
+Software Developer at Home In Town, focused on building scalable web applications, CRM platforms, automation systems, and AI-powered solutions. Passionate about full-stack development, emerging technologies, and continuously learning Artificial Intelligence (AI) and Machine Learning (ML) to create innovative products.
 
 ---
 
 ## About Me  
 - Currently learning **AI, ML, and advanced web development**  
-- Interested in **software development, data-driven solutions, and innovative technologies**  
+- Interested in **data science, software development, data-driven solutions, and innovative technologies**  
 - Pronouns: **he/him**  
 
 ---
